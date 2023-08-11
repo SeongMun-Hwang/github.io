@@ -13,8 +13,10 @@
     "contentlayer": "^0.2.6",
     "next": "12.2.2",
     "next-contentlayer": "^0.2.6",
+    "nextjs": "^0.0.3",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "upgrade": "^1.1.0"
   },
   "devDependencies": {
     "@tailwindcss/typography": "^0.5.2",
